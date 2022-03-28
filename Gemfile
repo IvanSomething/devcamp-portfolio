@@ -51,3 +51,5 @@ gem 'friendly_id', '~> 5.4.0'
 gem 'devise'
 
 gem 'bootstrap', '~> 5.1.3'
+
+gem 'devcamp_view_tool', git: 'https://github.com/jordanhudgens/devcamp_view_tool'
