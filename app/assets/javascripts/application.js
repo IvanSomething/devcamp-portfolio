@@ -15,7 +15,7 @@
 //= require jquery_ujs
 //= require jquery-ui
 //= require html.sortable
-//= require turbolinks
-//= require rails-ujs
 //= require cocoon
+//= require cable
+//= require turbolinks
 //= require_tree .
